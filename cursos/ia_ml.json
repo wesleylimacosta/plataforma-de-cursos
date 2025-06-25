@@ -1,0 +1,48 @@
+{
+  "titulo": "IA & ML",
+  "descricao": "Material completo de Inteligência Artificial e Machine Learning.",
+  "imagem": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
+  "topicos": [
+    { "titulo": "Fundamento de IA", "aulas": [
+      { "titulo": "V1", "video": "https://mdstrm.com/video/6579e83ed779e9205145898a.mp4" },
+      { "titulo": "V2", "video": "https://mdstrm.com/video/6579e8210225c44d44f129f8.mp4" },
+      { "titulo": "V3", "video": "https://mdstrm.com/video/6579e848420a21428049dbc9.mp4" },
+      { "titulo": "V4", "video": "https://mdstrm.com/video/6579e468c80496411c88dccb.mp4" },
+      { "titulo": "V5", "video": "https://mdstrm.com/video/6579e3091bda68274bb12e79.mp4" },
+      { "titulo": "Podcast", "video": "https://mdstrm.com/audio/6568ebd131d2f008a7709afa.mp3" }
+    ]},
+    { "titulo": "Espaço e Estados de Busca", "aulas": [
+      { "titulo": "V1", "video": "https://mdstrm.com/video/6579e8402e8fd6273ffcdd82.mp4" },
+      { "titulo": "V2", "video": "https://mdstrm.com/video/6579e5a9f26aae21b493b484.mp4" },
+      { "titulo": "V3", "video": "https://mdstrm.com/video/6579e81a5c7d0d1fed566912.mp4" },
+      { "titulo": "V4", "video": "https://mdstrm.com/video/6579e840c80496411c8905c8.mp4" },
+      { "titulo": "V5", "video": "https://mdstrm.com/video/6579e466f26aae21b49392ea.mp4" },
+      { "titulo": "Podcast", "video": "https://mdstrm.com/audio/6568ec0ce18ca208c795ec77.mp3" }
+    ]},
+    { "titulo": "Aprendizado Indutivo e Redes Neurais", "aulas": [
+      { "titulo": "V1", "video": "https://mdstrm.com/video/6579e82ccd536327630b502b.mp4" },
+      { "titulo": "V2", "video": "https://mdstrm.com/video/6579e5b24d17a94d36d8c596.mp4" },
+      { "titulo": "V3", "video": "https://mdstrm.com/video/6579e6560225c44d44f10260.mp4" },
+      { "titulo": "V4", "video": "https://mdstrm.com/video/6579e8225c7d0d1fed5669db.mp4" },
+      { "titulo": "V5", "video": "https://mdstrm.com/video/6579e46da23b671eab24ead1.mp4" },
+      { "titulo": "Podcast", "video": "https://mdstrm.com/audio/6568ec179d6bfa08c97f6764.mp3" }
+    ]},
+    { "titulo": "Implantação de Serviços de IA", "aulas": [
+      { "titulo": "V1", "video": "https://mdstrm.com/video/6579e59442839a4d2864e419.mp4" },
+      { "titulo": "V2", "video": "https://mdstrm.com/video/6579e58124cecd27119f75a0.mp4" },
+      { "titulo": "V3", "video": "https://mdstrm.com/video/6579e55346b97158f883ff60.mp4" },
+      { "titulo": "V4", "video": "https://mdstrm.com/video/6579e49c272503412adef01f.mp4" },
+      { "titulo": "V5", "video": "https://mdstrm.com/video/6579e3d8cd536327630b0cf9.mp4" },
+      { "titulo": "Podcast", "video": "https://mdstrm.com/audio/6568ec1e029e1a08985e136a.mp3" }
+    ]},
+    { "titulo": "IA Generativa", "aulas": [
+      { "titulo": "V1", "video": "https://mdstrm.com/video/6579e95424cecd27119fa860.mp4" },
+      { "titulo": "V2", "video": "https://mdstrm.com/video/6579e9435c7d0d1fed567623.mp4" },
+      { "titulo": "V3", "video": "https://mdstrm.com/video/6579e930b9650326dd479df8.mp4" },
+      { "titulo": "V4", "video": "https://mdstrm.com/video/6579e935272503412adf57e1.mp4" },
+      { "titulo": "V5", "video": "https://mdstrm.com/video/6579e920b9650326dd479ce9.mp4" },
+      { "titulo": "Podcast", "video": "https://mdstrm.com/audio/6568ec259a24da087b37eb2c.mp3" },
+      { "titulo": "Extra", "video": "https://mdstrm.com/video/6579ea7bd779e9205145b3a4.mp4" }
+    ]}
+  ]
+}

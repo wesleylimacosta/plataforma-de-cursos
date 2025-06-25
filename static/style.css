@@ -1,0 +1,86 @@
+body {
+    background: linear-gradient(135deg, #181c2f 0%, #3a1c71 100%);
+    min-height: 100vh;
+}
+.navbar {
+    box-shadow: 0 2px 8px #0002;
+    background: linear-gradient(90deg, #3a1c71 60%, #0f2027 100%);
+}
+.course-card {
+    border: none;
+    border-radius: 1rem;
+    transition: box-shadow 0.2s, transform 0.2s;
+    overflow: hidden;
+    background: #232946;
+    box-shadow: 0 4px 24px #0005, 0 1.5px 6px #3a1c7133;
+}
+.course-card:hover {
+    box-shadow: 0 12px 36px #3a1c71cc, 0 4px 24px #0007;
+    transform: translateY(-6px) scale(1.03);
+    cursor: pointer;
+}
+.course-img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    background: #232946;
+}
+.card-title, h3 {
+    color: #a786ff;
+    font-weight: 700;
+}
+.btn-primary, .btn-outline-primary {
+    border-radius: 2rem;
+    font-weight: 600;
+    background: linear-gradient(90deg, #3a1c71 60%, #0f2027 100%);
+    border: none;
+    color: #fff;
+}
+.btn-outline-primary {
+    background: transparent;
+    color: #a786ff;
+    border: 2px solid #a786ff;
+}
+.btn-outline-primary:disabled, .btn-outline-primary[disabled] {
+    color: #888 !important;
+    border-color: #888 !important;
+}
+.list-group-item-action {
+    border: none;
+    border-radius: 0.5rem;
+    margin-bottom: 0.5rem;
+    background: #232946;
+    color: #fff;
+    transition: background 0.2s, box-shadow 0.2s;
+}
+.card, .list-group-item, .card-header, .list-group-item-action, .list-group-item.active {
+    background: #232946 !important;
+    color: #e0e7ff !important;
+    border: none;
+}
+.card-header.bg-primary {
+    background: linear-gradient(90deg, #3a1c71 60%, #0f2027 100%) !important;
+    color: #fff !important;
+}
+.list-group-item.active {
+    background: linear-gradient(90deg, #a786ff 60%, #3a1c71 100%) !important;
+    color: #232946 !important;
+    font-weight: bold;
+}
+.list-group-item-action:hover, .list-group-item-action:focus {
+    background: #3a1c71 !important;
+    color: #fff !important;
+}
+.badge.bg-primary {
+    background: linear-gradient(90deg, #a786ff 60%, #3a1c71 100%);
+    color: #232946;
+}
+.card-text, .card-body p {
+    color: #e0e7ff;
+}
+@media (max-width: 576px) {
+    .card-body h5, .card-body p, h3 { font-size: 1rem; }
+    .btn, .btn-link { font-size: 0.95rem; padding: 0.5rem 0.75rem; }
+    .ratio { min-height: 180px; }
+    .course-img { height: 110px; }
+}

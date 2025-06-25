@@ -1,0 +1,34 @@
+{
+  "titulo": "Nome do Curso Exemplo",
+  "descricao": "Breve descrição do curso.",
+  "imagem": "https://link-da-imagem-opcional.com/imagem.jpg",
+  "topicos": [
+    {
+      "titulo": "Nome do Tópico 1",
+      "aulas": [
+        {
+          "titulo": "Aula 1",
+          "descricao": "Descrição opcional da aula.",
+          "video": "https://link-do-video-ou-audio.com/video.mp4"
+        },
+        {
+          "titulo": "Aula 2",
+          "video": "https://www.youtube.com/watch?v=xxxxxxx"
+        },
+        {
+          "titulo": "Podcast",
+          "video": "https://link-do-audio.com/audio.mp3"
+        }
+      ]
+    },
+    {
+      "titulo": "Nome do Tópico 2",
+      "aulas": [
+        {
+          "titulo": "Aula 1",
+          "video": "https://link-do-video.com/video2.mp4"
+        }
+      ]
+    }
+  ]
+}
